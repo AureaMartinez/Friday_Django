@@ -1,4 +1,4 @@
-#!/home/aureamartinez/Desktop/Friday/venv/bin/python
+#!/home/aureamartinez/GetHub_Repo/Friday_Django/Friday/venv/bin/python
 from django.core import management
 
 if __name__ == "__main__":
